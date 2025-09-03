@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 Olá! Eu sou Edimar Ferreira (Ferreira_DEV)
 
 📚 Estudante de Análise e Desenvolvimento de Sistema.
@@ -5,6 +9,12 @@ Olá! Eu sou Edimar Ferreira (Ferreira_DEV)
 🤓 Iniciante no Front- end
 
 Bem-vindo ao meu perfil! Sou **desenvolvedor Front-End**, apaixonado por criar interfaces modernas, responsivas e funcionais.  
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edimarferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edimarferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ## 🛠 Tecnologias e Linguagens
@@ -19,7 +29,9 @@ Bem-vindo ao meu perfil! Sou **desenvolvedor Front-End**, apaixonado por criar i
 
 ## 📞 Redes De Comunicação
 <div> 
-  <a href = "mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edimarfilho187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edimar-ferreira-0273261b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
